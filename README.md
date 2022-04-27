@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![yml's github stats](https://github-readme-stats.vercel.app/api?username=yml2213&show_icons=true&theme=Gradient)](https://github.com/yml2213)
+[![yml's github stats](https://github-readme-stats.vercel.app/api?username=yml2213&show_icons=true&theme=radical)](https://github.com/yml2213)
 
 
 <!--
