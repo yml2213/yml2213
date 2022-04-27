@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yml2213)](https://github.com/anuraghazra/github-readme-stats)?theme=Gradient
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yml2213&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
