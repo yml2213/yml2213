@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![yml's github stats](https://github-readme-stats.vercel.app/api?username=yml2213&show_icons=true)](https://github.com/yml2213)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yml2213)](https://github.com/yml2213/github-readme-stats)
 
 
 <!--
